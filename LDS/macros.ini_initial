@@ -1,0 +1,3 @@
+
+CONTROLSUITE_ROOT = ../../../
+F2802x_DEVICE_SUPPORT_ROOT = ../../../device_support/f2802x/v127/
